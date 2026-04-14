@@ -14,6 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: simonecorsi/mawesome@latest
+        continue-on-error: true 
         with:
           api-token: ${{ secrets.API_TOKEN }}
           github-email: ${{ secrets.USER_EMAIL }}
