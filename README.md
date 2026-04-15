@@ -4,16 +4,30 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Go](#go)
 *   [Java](#java)
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
-*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [TeX](#tex)
 *   [C](#c)
 *   [C#](#c-1)
+
+## Rust
+
+*   [RustCrypto/utils](https://github.com/RustCrypto/utils) - Utility crates used in RustCrypto
+*   [unicode-rs/unicode-width](https://github.com/unicode-rs/unicode-width) - Displayed width of Unicode characters and strings according to UAX#11 rules.
+*   [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
+*   [enarx/ciborium](https://github.com/enarx/ciborium) - CBOR utilities
+*   [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+*   [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+*   [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
+*   [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
+*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+*   [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
 
 ## Go
 
@@ -51,11 +65,6 @@
 *   [robinbraemer/awesome](https://github.com/robinbraemer/awesome) - Years of curating top-tier open source projects, distilled into a single, continuously updated list based on my starred repositories. Explore the best of the best! ⭐
 *   [minekube/awesome](https://github.com/minekube/awesome) - A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
 *   [code0-tech/codezero](https://github.com/code0-tech/codezero) - Build no-code backends, automations and complex workflows. Every idea starts at zero. Start with CodeZero.
-
-## Rust
-
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-*   [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
 
 ## TypeScript
 
