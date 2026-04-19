@@ -18,6 +18,12 @@
 
 ## Rust
 
+*   [webdesus/fs\_extra](https://github.com/webdesus/fs_extra) - Expanding opportunities standard library std::fs and std::io
+*   [dtolnay/semver](https://github.com/dtolnay/semver) - Parser and evaluator for Cargo's flavor of Semantic Versioning
+*   [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
+*   [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
+*   [dtolnay/indoc](https://github.com/dtolnay/indoc) - Indented document literals for Rust
+*   [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
 *   [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
 *   [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 *   [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
