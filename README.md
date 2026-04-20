@@ -4,20 +4,30 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Go](#go)
 *   [C++](#c)
 *   [Java](#java)
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
-*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [TeX](#tex)
 *   [C](#c-1)
 *   [C#](#c-2)
 
+## miscellaneous
+
+*   [julian-siebert/tomato](https://github.com/julian-siebert/tomato) - Example Buffy project
+*   [nicosammito/awesome-free-saas](https://github.com/nicosammito/awesome-free-saas) - an awesome list of  free SaaS (software as a service) for you.
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [robinbraemer/awesome](https://github.com/robinbraemer/awesome) - Years of curating top-tier open source projects, distilled into a single, continuously updated list based on my starred repositories. Explore the best of the best! ⭐
+*   [minekube/awesome](https://github.com/minekube/awesome) - A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
+*   [code0-tech/codezero](https://github.com/code0-tech/codezero) - Build no-code backends, automations and complex workflows. Every idea starts at zero. Start with CodeZero.
+
 ## Rust
 
+*   [julian-siebert/buffy](https://github.com/julian-siebert/buffy) - The cute Protobuf manager
 *   [webdesus/fs\_extra](https://github.com/webdesus/fs_extra) - Expanding opportunities standard library std::fs and std::io
 *   [dtolnay/semver](https://github.com/dtolnay/semver) - Parser and evaluator for Cargo's flavor of Semantic Versioning
 *   [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
@@ -75,14 +85,6 @@
 *   [Kotlin/kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime) - KotlinX multiplatform date/time library
 *   [Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
 *   [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-
-## miscellaneous
-
-*   [nicosammito/awesome-free-saas](https://github.com/nicosammito/awesome-free-saas) - an awesome list of  free SaaS (software as a service) for you.
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [robinbraemer/awesome](https://github.com/robinbraemer/awesome) - Years of curating top-tier open source projects, distilled into a single, continuously updated list based on my starred repositories. Explore the best of the best! ⭐
-*   [minekube/awesome](https://github.com/minekube/awesome) - A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
-*   [code0-tech/codezero](https://github.com/code0-tech/codezero) - Build no-code backends, automations and complex workflows. Every idea starts at zero. Start with CodeZero.
 
 ## TypeScript
 
