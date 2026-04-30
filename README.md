@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
@@ -11,10 +12,15 @@
 *   [Java](#java)
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
-*   [TypeScript](#typescript)
 *   [TeX](#tex)
 *   [C](#c-1)
 *   [C#](#c-2)
+
+## TypeScript
+
+*   [code0-tech/hercules](https://github.com/code0-tech/hercules) - The action sdk to connect with aquila
+*   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+*   [code0-tech/cygnus](https://github.com/code0-tech/cygnus) - The official product landing page.
 
 ## Go
 
@@ -86,11 +92,6 @@
 *   [Kotlin/kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime) - KotlinX multiplatform date/time library
 *   [Kotlin/kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
 *   [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - Library support for Kotlin coroutines
-
-## TypeScript
-
-*   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-*   [code0-tech/cygnus](https://github.com/code0-tech/cygnus) - The official product landing page.
 
 ## TeX
 
