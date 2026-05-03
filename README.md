@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
 *   [Go](#go)
+*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [C++](#c)
@@ -16,14 +16,11 @@
 *   [C](#c-1)
 *   [C#](#c-2)
 
-## TypeScript
-
-*   [code0-tech/hercules](https://github.com/code0-tech/hercules) - The action sdk to connect with aquila
-*   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-*   [code0-tech/cygnus](https://github.com/code0-tech/cygnus) - The official product landing page.
-
 ## Go
 
+*   [minekube/geyserlite](https://github.com/minekube/geyserlite) - Native-image-compiled Geyser as polyglot Go/Rust libraries + standalone binary. Bedrock↔Java cross-play with ~80MB RSS.
+*   [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
+*   [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
 *   [yoheimuta/protolint](https://github.com/yoheimuta/protolint) - A pluggable linter and fixer to enforce Protocol Buffer style and conventions.
 *   [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 *   [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
@@ -32,6 +29,12 @@
 *   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 *   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 *   [agones-dev/agones](https://github.com/agones-dev/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
+
+## TypeScript
+
+*   [code0-tech/hercules](https://github.com/code0-tech/hercules) - The action sdk to connect with aquila
+*   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+*   [code0-tech/cygnus](https://github.com/code0-tech/cygnus) - The official product landing page.
 
 ## miscellaneous
 
