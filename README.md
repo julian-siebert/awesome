@@ -5,19 +5,20 @@
 ## Table of Contents
 
 *   [Go](#go)
+*   [C](#c)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Java](#java)
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [TeX](#tex)
-*   [C](#c-1)
 *   [C#](#c-2)
 
 ## Go
 
+*   [raphael-goetz/lazysound](https://github.com/raphael-goetz/lazysound) - A terminal UI for SoundCloud
 *   [minekube/geyserlite](https://github.com/minekube/geyserlite) - Native-image-compiled Geyser as polyglot Go/Rust libraries + standalone binary. Bedrock↔Java cross-play with ~80MB RSS.
 *   [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 *   [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
@@ -29,6 +30,11 @@
 *   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 *   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 *   [agones-dev/agones](https://github.com/agones-dev/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
+
+## C
+
+*   [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
+*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ## TypeScript
 
@@ -99,10 +105,6 @@
 ## TeX
 
 *   [latex3/latex3](https://github.com/latex3/latex3) - The expl3 (LaTeX3) Development Repository
-
-## C
-
-*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
 ## C\#
 
