@@ -4,20 +4,39 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Go](#go)
+*   [Python](#python)
+*   [Rust](#rust)
+*   [miscellaneous](#miscellaneous)
+*   [Scala](#scala)
 *   [C](#c)
 *   [TypeScript](#typescript)
-*   [miscellaneous](#miscellaneous)
-*   [Rust](#rust)
 *   [C++](#c-1)
-*   [Java](#java)
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [TeX](#tex)
 *   [C#](#c-2)
 
+## Java
+
+*   [apache/maven](https://github.com/apache/maven) - Apache Maven core
+*   [apache/cassandra](https://github.com/apache/cassandra) - Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.
+*   [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
+*   [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows of newer clients to connect to older server versions for Minecraft servers.
+*   [GeyserMC/Floodgate](https://github.com/GeyserMC/Floodgate) - Hybrid mode plugin to allow for connections from Geyser to join online mode servers.
+*   [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
+*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
+*   [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
+
 ## Go
 
+*   [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
+*   [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
+*   [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+*   [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
+*   [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+*   [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 *   [raphael-goetz/lazysound](https://github.com/raphael-goetz/lazysound) - A terminal UI for SoundCloud
 *   [minekube/geyserlite](https://github.com/minekube/geyserlite) - Native-image-compiled Geyser as polyglot Go/Rust libraries + standalone binary. Bedrock↔Java cross-play with ~80MB RSS.
 *   [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
@@ -31,28 +50,13 @@
 *   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 *   [agones-dev/agones](https://github.com/agones-dev/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 
-## C
+## Python
 
-*   [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
-*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-
-## TypeScript
-
-*   [code0-tech/hercules](https://github.com/code0-tech/hercules) - The action sdk to connect with aquila
-*   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-*   [code0-tech/cygnus](https://github.com/code0-tech/cygnus) - The official product landing page.
-
-## miscellaneous
-
-*   [julian-siebert/tomato](https://github.com/julian-siebert/tomato) - Example Buffy project
-*   [nicosammito/awesome-free-saas](https://github.com/nicosammito/awesome-free-saas) - an awesome list of  free SaaS (software as a service) for you.
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [robinbraemer/awesome](https://github.com/robinbraemer/awesome) - Years of curating top-tier open source projects, distilled into a single, continuously updated list based on my starred repositories. Explore the best of the best! ⭐
-*   [minekube/awesome](https://github.com/minekube/awesome) - A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
-*   [code0-tech/codezero](https://github.com/code0-tech/codezero) - Build no-code backends, automations and complex workflows. Every idea starts at zero. Start with CodeZero.
+*   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 
 ## Rust
 
+*   [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 *   [julian-siebert/buffy](https://github.com/julian-siebert/buffy) - The cute Protobuf manager
 *   [webdesus/fs\_extra](https://github.com/webdesus/fs_extra) - Expanding opportunities standard library std::fs and std::io
 *   [dtolnay/semver](https://github.com/dtolnay/semver) - Parser and evaluator for Cargo's flavor of Semantic Versioning
@@ -78,17 +82,35 @@
 *   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 *   [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
 
+## miscellaneous
+
+*   [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location.
+*   [julian-siebert/tomato](https://github.com/julian-siebert/tomato) - Example Buffy project
+*   [nicosammito/awesome-free-saas](https://github.com/nicosammito/awesome-free-saas) - an awesome list of  free SaaS (software as a service) for you.
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [robinbraemer/awesome](https://github.com/robinbraemer/awesome) - Years of curating top-tier open source projects, distilled into a single, continuously updated list based on my starred repositories. Explore the best of the best! ⭐
+*   [minekube/awesome](https://github.com/minekube/awesome) - A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
+*   [code0-tech/codezero](https://github.com/code0-tech/codezero) - Build no-code backends, automations and complex workflows. Every idea starts at zero. Start with CodeZero.
+
+## Scala
+
+*   [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
+
+## C
+
+*   [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting\_a\_Patch
+*   [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
+*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+
+## TypeScript
+
+*   [code0-tech/hercules](https://github.com/code0-tech/hercules) - The action sdk to connect with aquila
+*   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+*   [code0-tech/cygnus](https://github.com/code0-tech/cygnus) - The official product landing page.
+
 ## C++
 
 *   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-
-## Java
-
-*   [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows of newer clients to connect to older server versions for Minecraft servers.
-*   [GeyserMC/Floodgate](https://github.com/GeyserMC/Floodgate) - Hybrid mode plugin to allow for connections from Geyser to join online mode servers.
-*   [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
-*   [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA & IntelliJ Platform
-*   [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 
 ## Shell
 
