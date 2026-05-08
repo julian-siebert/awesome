@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Java](#java)
 *   [Go](#go)
 *   [Python](#python)
-*   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [Scala](#scala)
 *   [C](#c)
@@ -17,6 +17,35 @@
 *   [Kotlin](#kotlin)
 *   [TeX](#tex)
 *   [C#](#c-2)
+
+## Rust
+
+*   [integer32llc/margo](https://github.com/integer32llc/margo) - An alternate Cargo registry using static files
+*   [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
+*   [julian-siebert/buffy](https://github.com/julian-siebert/buffy) - The cute Protobuf manager
+*   [webdesus/fs\_extra](https://github.com/webdesus/fs_extra) - Expanding opportunities standard library std::fs and std::io
+*   [dtolnay/semver](https://github.com/dtolnay/semver) - Parser and evaluator for Cargo's flavor of Semantic Versioning
+*   [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
+*   [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
+*   [dtolnay/indoc](https://github.com/dtolnay/indoc) - Indented document literals for Rust
+*   [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
+*   [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
+*   [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
+*   [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
+*   [console-rs/console](https://github.com/console-rs/console) - A rust console and terminal abstraction
+*   [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
+*   [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
+*   [RustCrypto/utils](https://github.com/RustCrypto/utils) - Utility crates used in RustCrypto
+*   [unicode-rs/unicode-width](https://github.com/unicode-rs/unicode-width) - Displayed width of Unicode characters and strings according to UAX#11 rules.
+*   [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
+*   [enarx/ciborium](https://github.com/enarx/ciborium) - CBOR utilities
+*   [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+*   [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+*   [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
+*   [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
+*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+*   [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
 
 ## Java
 
@@ -53,34 +82,6 @@
 ## Python
 
 *   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
-
-## Rust
-
-*   [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-*   [julian-siebert/buffy](https://github.com/julian-siebert/buffy) - The cute Protobuf manager
-*   [webdesus/fs\_extra](https://github.com/webdesus/fs_extra) - Expanding opportunities standard library std::fs and std::io
-*   [dtolnay/semver](https://github.com/dtolnay/semver) - Parser and evaluator for Cargo's flavor of Semantic Versioning
-*   [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
-*   [Stebalien/tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust
-*   [dtolnay/indoc](https://github.com/dtolnay/indoc) - Indented document literals for Rust
-*   [zkat/miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
-*   [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
-*   [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
-*   [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
-*   [console-rs/console](https://github.com/console-rs/console) - A rust console and terminal abstraction
-*   [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
-*   [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
-*   [RustCrypto/utils](https://github.com/RustCrypto/utils) - Utility crates used in RustCrypto
-*   [unicode-rs/unicode-width](https://github.com/unicode-rs/unicode-width) - Displayed width of Unicode characters and strings according to UAX#11 rules.
-*   [quinn-rs/quinn](https://github.com/quinn-rs/quinn) - Async-friendly QUIC implementation in Rust
-*   [enarx/ciborium](https://github.com/enarx/ciborium) - CBOR utilities
-*   [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
-*   [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
-*   [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
-*   [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
-*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-*   [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
 
 ## miscellaneous
 
