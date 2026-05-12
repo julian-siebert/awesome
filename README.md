@@ -45,7 +45,7 @@
 *   [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
 *   [integer32llc/margo](https://github.com/integer32llc/margo) - An alternate Cargo registry using static files
 *   [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-*   [julian-siebert/buffy](https://github.com/julian-siebert/buffy) - Build and publish Protocol Buffer libraries for Go, Java, Kotlin, Rust, JavaScript and TypeScript from a single set of .proto files.
+*   [julian-siebert/buffy](https://github.com/julian-siebert/buffy) - Build and publish Protocol Buffer libraries for Go, Java, Kotlin, Rust, Python, JavaScript and TypeScript from a single set of .proto files.
 *   [webdesus/fs\_extra](https://github.com/webdesus/fs_extra) - Expanding opportunities standard library std::fs and std::io
 *   [dtolnay/semver](https://github.com/dtolnay/semver) - Parser and evaluator for Cargo's flavor of Semantic Versioning
 *   [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
