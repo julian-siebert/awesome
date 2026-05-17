@@ -4,19 +4,24 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Go](#go)
 *   [Rust](#rust)
 *   [Java](#java)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Scala](#scala)
-*   [C](#c)
+*   [C](#c-1)
 *   [TypeScript](#typescript)
-*   [C++](#c-1)
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [TeX](#tex)
 *   [C#](#c-2)
+
+## C++
+
+*   [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
+*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 
 ## Go
 
@@ -110,10 +115,6 @@
 *   [code0-tech/hercules](https://github.com/code0-tech/hercules) - The action sdk to connect with aquila
 *   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 *   [code0-tech/cygnus](https://github.com/code0-tech/cygnus) - The official product landing page.
-
-## C++
-
-*   [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 
 ## Shell
 
