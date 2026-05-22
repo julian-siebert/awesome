@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
+*   [miscellaneous](#miscellaneous)
 *   [C++](#c)
 *   [Go](#go)
 *   [Java](#java)
@@ -18,19 +18,10 @@
 *   [TeX](#tex)
 *   [C#](#c-2)
 
-## miscellaneous
-
-*   [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
-*   [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location.
-*   [julian-siebert/tomato](https://github.com/julian-siebert/tomato) - Example Buffy project
-*   [nicosammito/awesome-free-saas](https://github.com/nicosammito/awesome-free-saas) - an awesome list of  free SaaS (software as a service) for you.
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-*   [robinbraemer/awesome](https://github.com/robinbraemer/awesome) - Years of curating top-tier open source projects, distilled into a single, continuously updated list based on my starred repositories. Explore the best of the best! ⭐
-*   [minekube/awesome](https://github.com/minekube/awesome) - A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
-*   [code0-tech/codezero](https://github.com/code0-tech/codezero) - Build no-code backends, automations and complex workflows. Every idea starts at zero. Start with CodeZero.
-
 ## Rust
 
+*   [code0-tech/tucana](https://github.com/code0-tech/tucana) - GRPC interface library
+*   [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 *   [dylanhart/ulid-rs](https://github.com/dylanhart/ulid-rs) - This is a Rust implementation of the ulid project
 *   [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 *   [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
@@ -61,6 +52,17 @@
 *   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 *   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 *   [bootc-dev/bootc](https://github.com/bootc-dev/bootc) - Boot and upgrade via container images
+
+## miscellaneous
+
+*   [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
+*   [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location.
+*   [julian-siebert/tomato](https://github.com/julian-siebert/tomato) - Example Buffy project
+*   [nicosammito/awesome-free-saas](https://github.com/nicosammito/awesome-free-saas) - an awesome list of  free SaaS (software as a service) for you.
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [robinbraemer/awesome](https://github.com/robinbraemer/awesome) - Years of curating top-tier open source projects, distilled into a single, continuously updated list based on my starred repositories. Explore the best of the best! ⭐
+*   [minekube/awesome](https://github.com/minekube/awesome) - A curated list of awesome community written frameworks, libraries and software depending on Minekube open source.
+*   [code0-tech/codezero](https://github.com/code0-tech/codezero) - Build no-code backends, automations and complex workflows. Every idea starts at zero. Start with CodeZero.
 
 ## C++
 
