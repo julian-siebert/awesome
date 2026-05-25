@@ -20,6 +20,9 @@
 
 ## Rust
 
+*   [rust-osdev/uart\_16550](https://github.com/rust-osdev/uart_16550) - Simple yet highly configurable low-level driver for 16550 UART devices, typically known and used as serial ports or COM ports.
+*   [rust-osdev/x86\_64](https://github.com/rust-osdev/x86_64) - Library to program x86\_64 hardware.
+*   [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
 *   [code0-tech/tucana](https://github.com/code0-tech/tucana) - GRPC interface library
 *   [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 *   [dylanhart/ulid-rs](https://github.com/dylanhart/ulid-rs) - This is a Rust implementation of the ulid project
