@@ -20,6 +20,7 @@
 
 ## Rust
 
+*   [cnap-tech/akua](https://github.com/cnap-tech/akua) - Replace bureaucratic YAML mass with high-energy, deterministic contracts. The Deno of Infra
 *   [rust-osdev/uart\_16550](https://github.com/rust-osdev/uart_16550) - Simple yet highly configurable low-level driver for 16550 UART devices, typically known and used as serial ports or COM ports.
 *   [rust-osdev/x86\_64](https://github.com/rust-osdev/x86_64) - Library to program x86\_64 hardware.
 *   [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
