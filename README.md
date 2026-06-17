@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Nix](#nix)
 *   [Rust](#rust)
 *   [Python](#python)
 *   [Go](#go)
@@ -17,6 +18,10 @@
 *   [Kotlin](#kotlin)
 *   [TeX](#tex)
 *   [C#](#c-2)
+
+## Nix
+
+*   [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## Rust
 
