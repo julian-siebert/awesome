@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Nix](#nix)
 *   [Rust](#rust)
 *   [Python](#python)
@@ -13,11 +14,17 @@
 *   [Java](#java)
 *   [Scala](#scala)
 *   [C](#c-1)
-*   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [TeX](#tex)
 *   [C#](#c-2)
+
+## TypeScript
+
+*   [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+*   [code0-tech/hercules](https://github.com/code0-tech/hercules) - The action sdk to connect with aquila
+*   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+*   [code0-tech/cygnus](https://github.com/code0-tech/cygnus) - The official product landing page.
 
 ## Nix
 
@@ -129,12 +136,6 @@
 *   [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting\_a\_Patch
 *   [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 *   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-
-## TypeScript
-
-*   [code0-tech/hercules](https://github.com/code0-tech/hercules) - The action sdk to connect with aquila
-*   [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-*   [code0-tech/cygnus](https://github.com/code0-tech/cygnus) - The official product landing page.
 
 ## Shell
 
