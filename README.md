@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Clojure](#clojure)
 *   [TypeScript](#typescript)
 *   [Nix](#nix)
 *   [Rust](#rust)
@@ -18,6 +19,10 @@
 *   [Kotlin](#kotlin)
 *   [TeX](#tex)
 *   [C#](#c-2)
+
+## Clojure
+
+*   [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## TypeScript
 
